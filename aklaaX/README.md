@@ -23,7 +23,7 @@ After successfully logging in, I am redirected to the dashboard. which is a simp
 ![Dashboard](img/Dashboard.png)
 I found out something interesting about the name of the song, it reminder me of a great African personality, According to the research I did, The name was inspired by Thomas Sankara motto, he was modernizing Burkina Faso in the 1980s, promoting self-sufficiency and anti-imperialism.
 But found out that the full phrase was "La patrie ou la mort, nous vaincrons" which means "The homeland or death, we will win". This is a powerful statement of resilience and determination.
-![A little bit of OSINT](img/a%20little%20bit%20of%20OSINT.png)
+![A little bit of OSINT](img/a little bit of OSINT.png)
 On the dashboard, I could just found "La patrie ou la mort," when assembling the beat's name in order.
 For me it's was a hint to the next step. There is a hidden beat, with the reste of the name : "nous vaincrons"
 ## WEB recon
